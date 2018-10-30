@@ -9,6 +9,8 @@ TITLE Elementary Arithmetic     (Program01.asm)
 ;	two numbers, calculate and display the sum, difference, product, and quotient and 
 ;	remainder of the numbers, and say good-bye.
 
+; Implementation notes: Uses global variables
+
 INCLUDE Irvine32.inc
 
 .data
