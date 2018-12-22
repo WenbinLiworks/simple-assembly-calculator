@@ -2,9 +2,6 @@ TITLE Elementary Arithmetic     (Program01_Liu_Timothy.asm)
 
 ; Author: Timothy Liu
 ; Last Modified: October 2, 2018
-; OSU email address: liutim@oregonstate.edu
-; Course number/section: CS_271_400_F2018
-; Project Number: 1                Due Date: October 7, 2018
 ; Description: This program will introduce the program and the programmer, prompt the user for 
 ;	two numbers, calculate and display the sum, difference, product, and quotient and 
 ;	remainder of the numbers, and say good-bye.
